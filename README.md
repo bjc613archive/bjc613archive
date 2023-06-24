@@ -1,27 +1,22 @@
-BradC
+BradC - Network Tech 1
 -------------------------------
-Experience in:
-  - AV ---> whole home audio, video distribution
-  - Low-volt electrical
-  - Security
-  - Network
+Experience in: 
   - Data center operations
+  - Network
+  - AV ---> whole home audio, video distribution, rack design and build
+  - Home automation ---> Savant, Control4
+  - Low-volt electrical
+  - IP Security Systems and Alarm
 
 Learning:
   - Python
-  - HTML, CSS, frameworks
+  - Django, Svelte
   - Git
-  - Bash scripting
-  - Home automation ---> Savant, Control4
+  - Scripting
+  - Puppet
 
-Interested in:
-  - Django
-  - Svelte
+Will learn:
   - node.js
   - AWS
-
   - SQL
-  - Go
- 
-  - Blockchain
-  - RaspberryPi
+  - Terraform
